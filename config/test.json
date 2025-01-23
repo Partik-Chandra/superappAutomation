@@ -1,0 +1,49 @@
+{
+    "users": {
+        "default_user": {
+            "username": "default_user",
+            "password": "default_password"
+        },
+        "another_user": {
+            "username": "another_user",
+            "password": "another_password"
+        },
+        "QA": {
+            "username": "qa_user",
+            "password": "qa_password"
+        }
+    },
+    "screens": {
+        "login": {
+            "default_user": {
+                "username": "default_user",
+                "password": "default_password"
+            },
+            "another_user": {
+                "username": "another_user",
+                "password": "another_password"
+            },
+            "QA": {
+                "username": "qa_user",
+                "password": "qa_password"
+            }
+        },
+        "signup": {
+            "default_user": {
+                "email": "default@example.com",
+                "password": "default_password",
+                "confirm_password": "default_password"
+            },
+            "another_user": {
+                "email": "another@example.com",
+                "password": "another_password",
+                "confirm_password": "another_password"
+            },
+            "QA": {
+                "email": "qa@example.com",
+                "password": "qa_password",
+                "confirm_password": "qa_password"
+            }
+        }
+    }
+}

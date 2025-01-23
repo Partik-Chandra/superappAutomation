@@ -1,0 +1,52 @@
+{
+    "users": {
+        "default_user": {
+            "username": "default_user",
+            "password": "default_password"
+        },
+        "another_user": {
+            "username": "another_user",
+            "password": "another_password"
+        },
+        "QA": {
+            "username": "prachi.auti+test1@toro.com",
+            "password": "Prachi@93"
+        }
+    },
+    "screens": {
+        "login": {
+            "default_user": {
+                "username": "default_user",
+                "password": "default_password"
+            },
+            "another_user": {
+                "username": "another_user",
+                "password": "another_password"
+            },
+            "QA": {
+                "username": "prachi.auti+test1@toro.com",
+                "password": "Prachi@93"
+            }
+        },
+        "signup": {
+            "default_user": {
+                "fNmae":"Sharad",
+                "lName":"Bagul",
+                "comName":"Horizen",
+                "email": "default@example.com",
+                "password": "default_password",
+                "confirm_password": "default_password"
+            },
+            "another_user": {
+                "email": "another@example.com",
+                "password": "another_password",
+                "confirm_password": "another_password"
+            },
+            "QA": {
+                "email": "qa@example.com",
+                "password": "qa_password",
+                "confirm_password": "qa_password"
+            }
+        }
+    }
+}
